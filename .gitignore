@@ -5,3 +5,7 @@ out
 *.iml
 *.ipr
 *.iws
+gradle
+settings.gradle
+gradlew
+gradlew.bat
