@@ -11,7 +11,7 @@ import static org.firmata4j.Pin.Mode.OUTPUT;
 /**
  * Created by justin on 6/24/15.
  */
-public class cjugFirmata4jDemo {
+public class CjugFirmata4jDemo {
     static IODevice device = new FirmataDevice("/dev/tty.usbmodem1451");
 
     public static void main(String[] args) throws IOException, InterruptedException {
